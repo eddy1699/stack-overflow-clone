@@ -1,19 +1,20 @@
 # stack-overflow-clone
 
-## Project setup
+### Link del aplicativo subido a un servidor
 ```
-npm install
+https://sensational-starburst-686760.netlify.app/
 ```
 
-### Compiles and hot-reloads for development
+## Configuración del proyecto
+```
+npm install
+npm install bootstrap
+npm install axios
+```
+
+### Ejecutar el proyecto
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
