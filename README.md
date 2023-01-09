@@ -1,9 +1,8 @@
 # stack-overflow-clone
 
 ### Link del aplicativo subido a un servidor
-```
+
 https://sensational-starburst-686760.netlify.app/
-```
 
 ## Configuración del proyecto
 ```
